@@ -175,7 +175,7 @@ https://app-clyvovet.azurewebsites.net
 
 ## Vídeo de Demonstração
 
-Link do vídeo no YouTube: `<LINK_DO_VIDEO>`
+Link do vídeo no YouTube: https://youtu.be/6QHIrIeWvVE
 
 ## Repositórios
 
